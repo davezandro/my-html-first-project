@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    border-radius: 10px;
+}
+img{
+    float: left;
+    width: 290px;
+    border-radius: 7px;
+}
+.left{
+    float: left;
+    
+
+}
+.right{
+    float: right;
+}
+
+div{
+    display: inline-block;
+
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 0.7;
+}
